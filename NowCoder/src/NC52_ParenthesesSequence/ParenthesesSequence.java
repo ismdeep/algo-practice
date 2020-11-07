@@ -2,7 +2,7 @@ package NC52_ParenthesesSequence;
 
 import org.junit.Test;
 
-public class NC52_Parentheses_Sequence {
+public class ParenthesesSequence {
     @Test
     public void test001() {
         assert !new Solution().isValid("[");
